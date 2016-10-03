@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PlotListTableViewController.h
 //  VMPlot
 //
 //  Created by Vašek Mlejnský on 23.09.15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PlotListTableViewController : UITableViewController
 
 @end
-
